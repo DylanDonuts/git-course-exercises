@@ -8,6 +8,7 @@ int main()
   int week;
 
   /* Input week number from user */
+  /* salve*/
   cout << "Enter week number(1-7): " << endl;
   cin >> week;
 
